@@ -28,7 +28,8 @@ public class Context_click {
 		
 		driver.switchTo().alert().accept();  //This command close alert window
 		
-
+		
+		
 
 	}
 
